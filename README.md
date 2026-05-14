@@ -26,9 +26,6 @@ Mohammed Faizan Mansuri
 ## Screenshots
 
 ### Home Screen
-## Screenshots
-
-### Home Screen
 ![Home](screenshots/home.jpeg)
 
 ### AI Chats Screen
