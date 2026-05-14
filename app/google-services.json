@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668081564948",
+    "firebase_url": "https://ai-notes-summarizer7-default-rtdb.firebaseio.com",
+    "project_id": "ai-notes-summarizer7",
+    "storage_bucket": "ai-notes-summarizer7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668081564948:android:e6d8f68774ac0547dea601",
+        "android_client_info": {
+          "package_name": "com.example.ainotessummarizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl9A5HexbVXpdCc5ljvbVnQSZZ9-7PT8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

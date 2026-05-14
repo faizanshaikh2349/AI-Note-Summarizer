@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginBottom="80dp"
+        android:src="@drawable/logo"
+
+        ></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NoteMaster"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Summarize your code effortlessly"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        ></TextView>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/getStartedBt"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#7FDEF9"
+        android:text="Get Started"
+        android:textColor="@color/white"
+        ></androidx.appcompat.widget.AppCompatButton>
+
+
+</LinearLayout>

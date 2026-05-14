@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Night mode theme — uses same violet palette with dark surface -->
+    <style name="Base.Theme.AINotesSummarizer" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Primary (lighter shade for dark mode visibility) -->
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorPrimaryContainer">#2D1B69</item>
+        <item name="colorOnPrimaryContainer">#EDE7F6</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/primary_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryContainer">#3B2A6B</item>
+        <item name="colorOnSecondaryContainer">#E8DEF8</item>
+
+        <!-- Surface -->
+        <item name="colorSurface">#121212</item>
+        <item name="colorOnSurface">#E0E0E0</item>
+        <item name="colorSurfaceVariant">#1E1E2E</item>
+        <item name="colorOnSurfaceVariant">#CAC4D0</item>
+
+        <!-- Error -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/on_error</item>
+
+        <!-- Outline -->
+        <item name="colorOutline">#938F99</item>
+        <item name="colorOutlineVariant">#49454F</item>
+
+        <!-- Status bar & nav bar -->
+        <item name="android:statusBarColor">@color/header_bg</item>
+        <item name="android:navigationBarColor">#121212</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ══════════ Primary Palette (Deep Violet) ══════════ -->
+    <color name="primary">#5B21B6</color>
+    <color name="primary_dark">#4A148C</color>
+    <color name="primary_light">#7C3AED</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#EDE7F6</color>
+    <color name="on_primary_container">#21005D</color>
+
+    <!-- ══════════ Secondary Palette ══════════ -->
+    <color name="secondary">#7C3AED</color>
+    <color name="secondary_container">#E8DEF8</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_secondary_container">#1D192B</color>
+
+    <!-- ══════════ Surface / Background ══════════ -->
+    <color name="surface">#FAFAFA</color>
+    <color name="surface_variant">#F0F4FF</color>
+    <color name="on_surface">#1A1040</color>
+    <color name="on_surface_variant">#49454F</color>
+    <color name="background">#F5F5F5</color>
+    <color name="outline">#79747E</color>
+    <color name="outline_variant">#CAC4D0</color>
+
+    <!-- ══════════ Header (Dark Sections) ══════════ -->
+    <color name="header_bg">#1A1040</color>
+    <color name="header_bg_secondary">#2A1F55</color>
+    <color name="header_text_primary">#FFFFFF</color>
+    <color name="header_text_secondary">#AAB4FF</color>
+    <color name="header_text_tertiary">#6666AA</color>
+    <color name="header_divider">#3A3060</color>
+    <color name="header_accent">#BB86FC</color>
+
+    <!-- ══════════ Error / Status ══════════ -->
+    <color name="error">#D32F2F</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#F9DEDC</color>
+    <color name="success">#2E7D32</color>
+    <color name="warning">#E65100</color>
+
+    <!-- ══════════ Text Colors ══════════ -->
+    <color name="text_primary">#1A1040</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#888888</color>
+    <color name="text_disabled">#BDBDBD</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_on_dark_secondary">#B0BFFF</color>
+    <color name="text_link">#7C3AED</color>
+
+    <!-- ══════════ Component Colors ══════════ -->
+    <!-- Cards -->
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+
+    <!-- Input fields -->
+    <color name="input_bg">#F0F0F0</color>
+    <color name="input_stroke">#CAC4D0</color>
+    <color name="input_stroke_focused">#5B21B6</color>
+    <color name="hint_color">#99FFFFFF</color>
+
+    <!-- Bottom Navigation -->
+    <color name="nav_bar_bg">#FFFFFF</color>
+    <color name="nav_inactive">#9E9E9E</color>
+    <color name="nav_active_indicator">#EDE7F6</color>
+    <color name="nav_ripple_color">#1A5B21B6</color>
+    <color name="nav_selected_icon">#5B21B6</color>
+
+    <!-- Dividers -->
+    <color name="divider_color">#E0E0E0</color>
+    <color name="divider_color_light">#F0F0F0</color>
+
+    <!-- Stat cards (inside dark header) -->
+    <color name="stat_label_color">#8899CC</color>
+
+    <!-- Drawer -->
+    <color name="drawer_divider_color">#BDBDBD</color>
+
+    <!-- Empty states -->
+    <color name="empty_state_icon_tint">#B0BEC5</color>
+    <color name="search_bar_bg">#F0F0F0</color>
+
+    <!-- ══════════ Password Strength ══════════ -->
+    <color name="strength_very_weak">#D32F2F</color>
+    <color name="strength_weak">#E65100</color>
+    <color name="strength_fair">#F9A825</color>
+    <color name="strength_strong">#2E7D32</color>
+    <color name="strength_very_strong">#1B5E20</color>
+
+    <!-- ══════════ Auth screens (on dark bg) ══════════ -->
+    <color name="auth_text_primary">#FFFFFF</color>
+    <color name="auth_text_secondary">#99FFFFFF</color>
+    <color name="auth_text_link">#B0BFFF</color>
+    <color name="auth_track_color">#33FFFFFF</color>
+
+    <!-- ══════════ Danger / Destructive ══════════ -->
+    <color name="danger_text">#E53935</color>
+
+    <!-- ══════════ Legacy compat (referenced elsewhere) ══════════ -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#D8D8D8</color>
+    <color name="gray_dark">#666666</color>
+    <color name="gray">#565555</color>
+    <color name="green">#388E3C</color>
+    <color name="red">#D32F2F</color>
+    <color name="blue_dark">#5B21B6</color>
+    <color name="blue_light">#EDE7F6</color>
+    <color name="login_normal">#5B21B6</color>
+    <color name="login_locked">#767171</color>
+    <color name="profile_card_bg">#FFFFFF</color>
+    <color name="profile_avatar_bg">#EDE7F6</color>
+    <color name="info_section_bg">#F5F7FA</color>
+
+</resources>

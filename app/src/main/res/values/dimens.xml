@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ══════════ Spacing ══════════ -->
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+
+    <!-- ══════════ Card ══════════ -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_corner_radius_large">20dp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+
+    <!-- ══════════ Button ══════════ -->
+    <dimen name="button_corner_radius">28dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_height_small">36dp</dimen>
+
+    <!-- ══════════ Icons ══════════ -->
+    <dimen name="icon_size_sm">16dp</dimen>
+    <dimen name="icon_size_md">24dp</dimen>
+    <dimen name="icon_size_lg">40dp</dimen>
+    <dimen name="icon_size_xl">48dp</dimen>
+
+    <!-- ══════════ Toolbar ══════════ -->
+    <dimen name="toolbar_icon_size">48dp</dimen>
+    <dimen name="toolbar_icon_padding">12dp</dimen>
+
+    <!-- ══════════ Profile ══════════ -->
+    <dimen name="profile_avatar_size">90dp</dimen>
+    <dimen name="profile_avatar_inner">46dp</dimen>
+    <dimen name="profile_row_height">56dp</dimen>
+    <dimen name="profile_row_divider_margin_start">52dp</dimen>
+
+    <!-- ══════════ Bottom Nav ══════════ -->
+    <dimen name="bottom_nav_height">80dp</dimen>
+
+    <!-- ══════════ Search bar ══════════ -->
+    <dimen name="search_bar_height">48dp</dimen>
+
+    <!-- ══════════ Stat number ══════════ -->
+    <dimen name="stat_number_size">22sp</dimen>
+    <dimen name="stat_label_size">11sp</dimen>
+
+</resources>
